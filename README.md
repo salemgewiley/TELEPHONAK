@@ -1,4 +1,4 @@
-# تـــلـــيـــفــونـــك  TELEPHONAK
+# TELEPHONAK تـــلـــيـــفــونـــك  
 This website is created for practicing responsive design.
 
 ## Overview
@@ -20,5 +20,9 @@ This project is a simple website aimed at practicing responsive design technique
 - **Features Section:** Highlights the key features of the online store.
 - **Newest Phones:** Displays the latest smartphone additions to the store.
 - **Footer:** Includes copyright information and social media links.
+
+
+
+
 
  - **Live-Preview : https://telephonak.vercel.app/
