@@ -25,4 +25,4 @@ This project is a simple website aimed at practicing responsive design technique
 
 
 
- - **Live-Preview : https://telephonak.vercel.app/
+## Live-Preview : https://telephonak.vercel.app/
