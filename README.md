@@ -1,5 +1,4 @@
-# TELEPHONAK
-# تـــلـــيـــفــونـــك
+# تـــلـــيـــفــونـــك  TELEPHONAK
 This website is created for practicing responsive design.
 
 ## Overview
